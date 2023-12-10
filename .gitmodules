@@ -1,0 +1,9 @@
+[submodule "wss"]
+	path = wss
+	url = git@github.com:bbommarito/webmuck-wss.git
+[submodule "client"]
+	path = client
+	url = git@github.com:bbommarito/webmuck-client.git
+[submodule "api"]
+	path = api
+	url = git@github.com:bbommarito/webmuck-api.git
